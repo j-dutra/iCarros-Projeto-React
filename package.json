@@ -29,6 +29,7 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
+    "@imaginary-cloud/eslint-config-react": "^2.0.1",
     "axios": "^0.27.2",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",

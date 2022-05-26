@@ -1,0 +1,6 @@
+// https://www.imaginarycloud.com/blog/how-to-configure-eslint-prettier-in-react/
+
+
+{
+    "extends": ["@imaginary-clound/react"]
+}
